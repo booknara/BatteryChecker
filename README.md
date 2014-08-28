@@ -1,7 +1,7 @@
 BatteryChecker
 ==============
 
-A way to check out a device battery information in Android
+A way to check out your device battery information in Android
 
 ![](website/static/sample.png)
 
